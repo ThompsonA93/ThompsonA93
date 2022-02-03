@@ -1,3 +1,2 @@
-<a href="https://github.com/ThompsonA93/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ThompsonA93&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"></a> 
-
-<a href="https://github.com/ThompsonA93/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThompsonA93&theme=buefy&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a> 
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThompsonA93&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="ThompsonA93" align = "center"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThompsonA93&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="ThompsonA93" align = "center"/></p>
