@@ -1,22 +1,5 @@
-<style>
-table {
-    width: 100%
-}
-.column {
-  float: left;
-  width: 48.875%;
-  height: auto;
-  padding: 10px;
-}
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-} 
-</style>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThompsonA93&theme=gruvbox" width="100%"/>
-<table>
+<table width="100%">
   <tr>
     <td><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ThompsonA93&langs_count=8&hide=jupyter%20notebook&layout=compact&theme=gruvbox&hide_border=true" width="100%"/></td>
     <td><img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ThompsonA93&show_icons=true&count_private=true&theme=gruvbox&hide_border=true" width="100%"/></td>
