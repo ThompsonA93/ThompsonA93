@@ -1,4 +1,4 @@
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThompsonA93&theme=gruvbox" height="200px" width="auto">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThompsonA93&theme=gruvbox" width="795px" width="auto">
 <div style="display: flex;">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ThompsonA93&langs_count=8&hide=jupyter%20notebook&layout=compact&theme=gruvbox&hide_border=true" height="200px" width="auto"/>
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ThompsonA93&show_icons=true&count_private=true&theme=gruvbox&hide_border=true" height="200px" width="auto"/>
